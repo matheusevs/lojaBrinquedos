@@ -1,0 +1,81 @@
+#home {
+    height: 1000px;
+    color: #000;
+    background: #fff;
+}
+
+.caixa{
+    padding: 60px 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #d6d0d0;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
+
+.acessibilidade{
+    background-color: #000;
+    color: #fff;
+}
+
+.fonte-referencia p{
+    text-align: end; 
+    font-size: xx-small;
+}
+
+.fonte-referencia a{
+    color: #fff;
+}
+
+.column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.column1{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.column2{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 250px;
+}
+
+.column3{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 250px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.carousel-item h1{
+    text-align: center;
+}
+
+.carousel-control-prev{
+    padding-right: 200px;
+}
+
+.carousel-control-next{
+    padding-left: 200px;
+}
